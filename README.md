@@ -15,7 +15,7 @@ An exchange rate calculator built in 🍦 vanilla JavaScript, CSS, and HTML.
 ## Getting Started
 
 1. Fork or directly clone this repository to your local machine and `cd` 
-2. Right click on `index.html` and open directly in the browser _or_ with VSCode's Live Sever extension. 
+2. Right click on `index.html` and open directly in the browser _or_ with VSCode's Live Server extension. 
 
 
 ## Tech Stack
